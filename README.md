@@ -163,8 +163,22 @@ Continuous evolution is at the core of my engineering career. Right now, I am ac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedraheed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Ahmed's GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedraheed&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=10b981&area=true&hide_border=true&title_color=ffffff" width="100%" alt="Contribution Activity Graph" />
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Enterprise_PRs_%26_Reviews-10%2B_Merged-10B981?style=for-the-badge&logo=github&logoColor=white" alt="10+ PRs" />
+  <img src="https://img.shields.io/badge/Contributed_To-5%2B_Repositories-8A2BE2?style=for-the-badge&logo=git&logoColor=white" alt="5+ Repos" />
+  <img src="https://img.shields.io/badge/Production_AI_Pipelines-15%2B_Deployed-0089FF?style=for-the-badge&logo=python&logoColor=white" alt="15+ Pipelines" />
+  <img src="https://img.shields.io/badge/SQL_%26_Power_BI-Advanced_Models-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Advanced BI" />
+</div>
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ahmedraheed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues,contribs" height="175" alt="Ahmed's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedraheed&theme=tokyonight&hide_border=true&background=0d1117" height="175" alt="Ahmed's GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmedraheed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Top Languages" />
 
 </div>
 
