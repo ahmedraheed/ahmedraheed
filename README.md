@@ -11,7 +11,7 @@
 # Hi there, I'm Ahmed Rasheed 👋
 ### Software Engineer & Data Scientist | Enterprise AI & Deep Learning Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38Bdf8&center=true&vCenter=true&width=800&height=45&lines=4+Years+Exp%3A+Software+Engineering+%26+Data+Science;Building+Intelligent+Enterprise+Systems+%26+ML+Pipelines;Specializing+in+Deep+Learning%3A+CNN-LSTM+%26+Bayesian+AI;Bridging+Complex+Data+%26+Production+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38Bdf8&center=true&vCenter=true&width=800&height=45&lines=4+Years+Exp%3A+Software+Engineering+%26+Data+Science;Building+Intelligent+Enterprise+Systems+%26+ML+Pipelines;Specializing+in+Deep+Learning%3A+CNN-LSTM+%26+Bayesian+AI;Architecting+RAG+Pipelines+%26+Frappe+ERPNext+Systems;Bridging+Complex+Data+%26+Production+Code)](https://git.io/typing-svg)
 
 ---
 
@@ -58,6 +58,8 @@ graph LR
 ```
 
 ### ⚡ Specializations:
+* **Retrieval-Augmented Generation (RAG) Pipelines:** Designing production-grade LLM applications by integrating semantic vector databases, custom embedding models, and contextual chunking for enterprise knowledge retrieval with zero hallucination.
+* **Frappe Framework & ERPNext Enterprise Systems:** Engineering modular, high-performance enterprise resource planning (ERP) architectures using Python and MariaDB within the Frappe ecosystem, automating complex business workflows, accounting, and custom data operations.
 * **Convolutional LSTM Networks (CNN-LSTM):** Combining spatial feature extraction (CNNs) with temporal sequential memory (LSTMs) for advanced time-series forecasting, sequential pattern recognition, and predictive analytics.
 * **Bayesian Networks & Probabilistic Modeling:** Designing directed acyclic graphs (DAGs) for decision-making under uncertainty, causal inference, and risk assessment in enterprise environments.
 * **End-to-End ML Engineering:** Bridging exploratory data analysis (EDA) with production deployment using automated data preprocessing, model evaluation, and high-performance REST APIs.
@@ -75,6 +77,8 @@ graph LR
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 AI, Machine Learning & Data Science
+![RAG](https://img.shields.io/badge/RAG-Vector_DBs_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -84,6 +88,9 @@ graph LR
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### ⚙️ Frameworks, Backend & Enterprise Systems
+![Frappe Framework](https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
