@@ -11,7 +11,7 @@
 # Hi there, I'm Ahmed Rasheed 👋
 ### Software Engineer & Data Scientist | Enterprise AI & Deep Learning Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38Bdf8&center=true&vCenter=true&width=650&lines=4+Years+of+Experience+in+Software+Engineering+%26+Data+Science;Building+Intelligent+Enterprise+Systems+%26+ML+Pipelines;Specializing+in+Deep+Learning%3A+CNN-LSTM+%26+Bayesian+Networks;Bridging+the+Gap+Between+Complex+Data+%26+Production+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38Bdf8&center=true&vCenter=true&width=800&height=45&lines=4+Years+Exp%3A+Software+Engineering+%26+Data+Science;Building+Intelligent+Enterprise+Systems+%26+ML+Pipelines;Specializing+in+Deep+Learning%3A+CNN-LSTM+%26+Bayesian+AI;Bridging+Complex+Data+%26+Production+Code)](https://git.io/typing-svg)
 
 ---
 
