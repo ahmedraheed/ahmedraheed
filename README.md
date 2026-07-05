@@ -44,17 +44,22 @@ I am a **Software Engineer and Data Scientist** with **4 years of professional e
 My passion centers on solving complex analytical problems using modern **Deep Learning** and **Probabilistic AI** methodologies. I don't just train models in notebooks—I engineer robust production pipelines.
 
 ```mermaid
-graph LR
-    A[Raw Enterprise Data] -->|SQL & R Engineering| B(Feature Processing)
-    B --> C{AI / ML Engine}
-    C -->|CNN-LSTM| D[Spatio-Temporal / Time-Series Prediction]
-    C -->|Bayesian Networks| E[Probabilistic Reasoning & Risk Modeling]
-    D --> F[FastAPI Microservice]
-    E --> F
-    F -->|REST / Enterprise Integration| G((Production Client App))
+graph TD
+    Data[Raw Enterprise Data & Docs] -->|SQL / Embeddings Pipeline| Engine{AI & ML Core Engine}
     
-    style C fill:#0ea5e9,stroke:#0369a1,stroke-width:2px,color:#fff
-    style F fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
+    Engine -->|CNN-LSTM| DL[Deep Learning: Time-Series Forecasting]
+    Engine -->|Bayesian Networks| Prob[Probabilistic AI: Risk & Causal Modeling]
+    Engine -->|Vector DB & LLMs| RAG[RAG Pipelines: Semantic Knowledge Retrieval]
+    
+    DL --> API[FastAPI Asynchronous Microservices]
+    Prob --> API
+    RAG --> API
+    
+    API -->|REST / Enterprise Integration| Client((Production Client Apps & Frappe ERPNext))
+    
+    style Engine fill:#0ea5e9,stroke:#0369a1,stroke-width:2px,color:#fff
+    style RAG fill:#f97316,stroke:#c2410c,stroke-width:2px,color:#fff
+    style API fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
 ```
 
 ### ⚡ Specializations:
