@@ -32,10 +32,10 @@
 
 I am a **Software Engineer and Data Scientist** with **4 years of professional experience** designing scalable software architecture and transforming complex data into high-performing AI models. My expertise lies at the intersection of robust backend engineering and advanced machine learning, allowing me to build end-to-end intelligent systems that drive real-world enterprise value.
 
-- 🔬 **What I do:** Architect scalable backend services, engineer end-to-end machine learning pipelines, and deploy predictive AI models into enterprise production environments.
+- 🔬 **What I do:** Architect scalable backend services, engineer end-to-end machine learning pipelines, design high-performance SQL databases, and build interactive Power BI & Excel data models.
 - 💡 **Core Engineering Philosophy:** Clean code, reproducible ML experiments, robust systems architecture, and data-driven decision making.
 - 🐧 **Environment:** Power user of **Linux (Ubuntu)** for development, model training, and server administration.
-- 💬 **Ask me about:** Python/C++ backend optimization, Deep Learning architectures (CNN-LSTM), Probabilistic Modeling, and FastAPI microservices.
+- 💬 **Ask me about:** SQL query optimization & relational schema design, Power BI executive dashboards, Python/C++ backend architecture, Deep Learning (CNN-LSTM), Probabilistic Modeling, and advanced Excel modeling.
 
 ---
 
@@ -80,6 +80,7 @@ graph LR
 * **Frappe Framework & ERPNext Enterprise Systems:** Engineering modular, high-performance enterprise resource planning (ERP) architectures using Python and MariaDB within the Frappe ecosystem, automating complex business workflows, accounting, and custom data operations.
 * **Convolutional LSTM Networks (CNN-LSTM):** Combining spatial feature extraction (CNNs) with temporal sequential memory (LSTMs) for advanced time-series forecasting, sequential pattern recognition, and predictive analytics.
 * **Bayesian Networks & Probabilistic Modeling:** Designing directed acyclic graphs (DAGs) for decision-making under uncertainty, causal inference, and risk assessment in enterprise environments.
+* **SQL Database Engineering, Power BI & Advanced Excel Analysis:** Extensive experience architecting complex relational schemas, optimizing high-concurrency SQL queries, writing stored procedures, and developing interactive executive dashboards and operational data models using Power BI (DAX), advanced Microsoft Excel functions, pivot tables, and automated Power Query workflows.
 * **End-to-End ML Engineering:** Bridging exploratory data analysis (EDA) with production deployment using automated data preprocessing, model evaluation, and high-performance REST APIs.
 
 ---
@@ -93,6 +94,15 @@ graph LR
 ![R](https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 SQL Database Engineering, Power BI & Advanced Excel Modeling
+![SQL](https://img.shields.io/badge/SQL-Advanced_Querying-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL / MariaDB](https://img.shields.io/badge/MySQL_%2F_MariaDB-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Interactive_Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced_Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query / VBA](https://img.shields.io/badge/Power_Query_%2F_VBA-Data_Automation-F2C811?style=for-the-badge&logo=microsoftexcel&logoColor=black)
 
 ### 🤖 AI, Machine Learning & Data Science
 ![RAG](https://img.shields.io/badge/RAG-Vector_DBs_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
