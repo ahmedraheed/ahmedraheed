@@ -43,6 +43,7 @@ I am a **Software Engineer and Data Scientist** with **4 years of professional e
 
 My passion centers on solving complex analytical problems using modern **Deep Learning** and **Probabilistic AI** methodologies. I don't just train models in notebooks—I engineer robust production pipelines.
 
+### 1️⃣ Predictive AI & Probabilistic Modeling Pipeline
 ```mermaid
 graph LR
     A[Raw Enterprise Data] -->|SQL & R Engineering| B(Feature Processing)
@@ -55,6 +56,23 @@ graph LR
     
     style C fill:#0ea5e9,stroke:#0369a1,stroke-width:2px,color:#fff
     style F fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
+```
+
+### 2️⃣ Enterprise Retrieval-Augmented Generation (RAG) Architecture
+```mermaid
+graph LR
+    Docs[Knowledge Docs] -->|LangChain| Embed[OpenAI Embeddings]
+    Embed -->|Index| FAISS[(FAISS Vector DB)]
+    
+    User((Client App)) -->|Query| Django[Django Controller]
+    Django -->|K-NN Search| FAISS
+    FAISS -->|Top-K Chunks| LLM[GPT-3.5 LLM]
+    Django -->|Prompt| LLM
+    LLM -->|Answer| User
+    
+    style FAISS fill:#004880,stroke:#002a4d,stroke-width:2px,color:#fff
+    style LLM fill:#412991,stroke:#261758,stroke-width:2px,color:#fff
+    style Django fill:#092e20,stroke:#04140e,stroke-width:2px,color:#fff
 ```
 
 ### ⚡ Specializations:
